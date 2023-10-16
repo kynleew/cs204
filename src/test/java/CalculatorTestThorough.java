@@ -4,7 +4,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 import static org.junit.Assert.*;
-// Adding To test my new code
 public class CalculatorTestThorough {
 
     @Test
